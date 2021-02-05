@@ -22,7 +22,7 @@ tags:
 ---
 
 When you're designing for mobile, it's important to remember that some people will need to change the size of the content
-to read it easily. There are different ways you can attend to this, whether you're writing an app for iOS or Android.
+to read it easily. There are so many ways to view content on mobile devices, from zooming in to orienting the screen differently, so a failure to design in a dynamic environment can lead to accessibility issues. There are different ways you can attend to this, whether you're writing an app for iOS or Android.
 
 ## Considerations for iOS
 
@@ -48,7 +48,3 @@ You'll also want to remember to make your [content container scrollable](https:/
 In your HTML, make sure to use relative units for responsive design. 
 
 Note that a person's pinch-to-zoom capability will be frustrated on mobile < iOS10 if you add `maximum-scale=1.0` to the `meta` element.
-
-remember ` ` and <kbd>
-
-WORK IN PROGRESS
